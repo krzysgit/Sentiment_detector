@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krzysgit/Sentiment_detector/blob/main/Sentiment.ipynb)
+
 #Sentiment Detector — BERT for Tweet Classification
 
 This project fine-tunes a DistilBERT model to classify tweets into three sentiment categories: **positive**, **neutral**, and **negative**.
