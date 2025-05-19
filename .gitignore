@@ -1,0 +1,15 @@
+# Notebook artifacts
+.ipynb_checkpoints/
+
+# Model weights
+model/
+*.bin
+*.safetensors
+
+# Environment stuff
+env/
+venv/
+__pycache__/
+
+# System
+.DS_Store
