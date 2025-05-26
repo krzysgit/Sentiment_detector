@@ -6,6 +6,10 @@ This project fine-tunes a DistilBERT model to classify tweets into three sentime
 
 The model is trained using the [TweetEval dataset](https://huggingface.co/datasets/tweet_eval) and published on the Hugging Face Hub.
 
+## 🔍 Try the Model
+
+[![Demo on Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Demo-blue?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/your-username/krzyskrzyskrzys/Sentiment)
+
 ---
 
 ## Model Summary
