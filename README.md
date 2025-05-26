@@ -8,7 +8,7 @@ The model is trained using the [TweetEval dataset](https://huggingface.co/datase
 
 ## 🔍 Try the Model
 
-[![Demo on Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Demo-blue?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/your-username/krzyskrzyskrzys/Sentiment)
+[![Demo on Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Demo-blue?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/krzyskrzyskrzys/Sentiment)
 
 ---
 
